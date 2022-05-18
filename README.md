@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sunwoosan
 - 👀 I’m interested in deep knowledge tracing 
-- 🌱 I’m currently learning machine and deep learning
 - 💞️ I’m looking forward to collaborating with you
 - 📫 How to reach me, send mail (sunwoosan@korea.ac.kr)
 
