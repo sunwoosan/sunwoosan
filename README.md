@@ -2,7 +2,7 @@
 - 👀 I’m interested in deep knowledge tracing 
 - 🌱 I’m currently learning machine and deep learning
 - 💞️ I’m looking forward to collaborating with you
-- 📫 How to reach me, send mail (sunwoosan@gmail.com)
+- 📫 How to reach me, send mail (sunwoosan@korea.ac.kr)
 
 <!---
 sunwoosan/sunwoosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
